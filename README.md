@@ -15,6 +15,7 @@
 
 
 透明度设置中，比如不透明度为100%，即透明与背景完全融为一体，Anyui中透明度就设置为0，反之则设置为255。
+![透明度图示](https://github.com/bemyperfect/my-anyui-articles/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-06-04%20113727.png?raw=true)
 
 注意新建的标签label ，要手动对**内边距，取消勾选再勾选**，因为 label 会自带 8px 的上间距。
 
